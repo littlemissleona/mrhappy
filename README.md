@@ -1,4 +1,4 @@
 # myfirsthtml
 
 My first html
-<a href='index.html'>Mr Happy </a>
+<a href='https://littlemissleona.github.io/myfirsthtml/'>Mr Happy </a>
